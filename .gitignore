@@ -1,0 +1,8 @@
+*.o
+*.cof
+*.hex
+*.map
+*.d
+build/
+dist/
+nbproject/private/
