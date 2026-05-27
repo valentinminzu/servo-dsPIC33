@@ -16,7 +16,7 @@ până la valoarea minimă de 0,2ms de unde va fi incrementat din nou cu 0,2ms.
   - Să comute starea pinului RB5 cu o perioadă de 1s. Comutarea va fi pusă în evidenţă de
 unul dintre LED-urile disponibile pe placă. 
 
-  Proiectul a fost realizat in cadrul facultatii, avand la indemana acolo si placa dsPIC, PICkit3 pentru debug, dar si servomotorul, potentiometrul si servomotoarele.
+  Proiectul a fost realizat in cadrul facultatii, avand la indemana acolo si placa dsPIC, PICkit3 pentru debug, dar si potentiometrul si servomotoarele.
 
   Verificarea perioadelor de timp pentru timere si pentru semnalele PWM a fost facuta pe osciloscop, observand daca perioada era cea corespunzatoare.
   Tot pe osciloscop puteam observa cum latimea de banda a semnalului PWM crestea in intervalul 1-2ms cand era modificata pozitia potentiometrului.
